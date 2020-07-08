@@ -1,0 +1,8 @@
+GET http://localhost:8080/webdemo_spring_mybatis_c3p0_1_war/book/89
+Accept: application/json
+
+###
+GET http://localhost:8080/webdemo_spring_mybatis_c3p0_1_war/student/99
+Accept: application/json
+
+###
